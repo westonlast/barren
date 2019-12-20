@@ -14,10 +14,6 @@ Output
 
 Output all the fertile land area in square meters, sorted from smallest area to greatest, separated by a space. 
 
-	
- 	
-{“48 192 351 207”, “48 392 351 407”, “120 52 135 547”, “260 52 275 547”} 	22816 192608 
-
 Sample Input | Sample Output
 ------------ | -------------
 {“0 292 399 307”} | 116800  116800
